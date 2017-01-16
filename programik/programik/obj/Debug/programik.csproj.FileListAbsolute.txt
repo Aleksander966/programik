@@ -1,0 +1,6 @@
+C:\Users\Aleksander\Desktop\programik\programik\bin\Debug\programik.exe.config
+C:\Users\Aleksander\Desktop\programik\programik\bin\Debug\programik.exe
+C:\Users\Aleksander\Desktop\programik\programik\bin\Debug\programik.pdb
+C:\Users\Aleksander\Desktop\programik\programik\obj\Debug\programik.csprojResolveAssemblyReference.cache
+C:\Users\Aleksander\Desktop\programik\programik\obj\Debug\programik.exe
+C:\Users\Aleksander\Desktop\programik\programik\obj\Debug\programik.pdb
